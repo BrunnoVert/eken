@@ -20,6 +20,12 @@
 	margin-top:16px;
 } */
 
+.vegaz-footer {
+    background-image: url(../img/vegaz-footer.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 .features-area h4 {
   color: #f8f9fa !important;
@@ -2420,7 +2426,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(29,138,198,1) 0%
 }
 
 .banner-area {
-  background: url(../img/header-bg-fixed.png) center;
+  background: url(../img/header-bg.jpg) center;
   background-size: cover;
 }
 
@@ -2774,7 +2780,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(29,138,198,1) 0%
 
 .footer-area {
   padding-top: 100px;
-  background-color: #051721;
+  background-color: #1b1b1b;
 }
 
 h6 {
